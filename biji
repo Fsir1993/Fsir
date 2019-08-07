@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .p0{
+            width:700px;
+            border:1px; soild:#ccc
+        }
+        
+        h1{
+            text-align:center;
+            font-size:25px;
+            font-weight:100;
+            font-family:宋体;
+        }
+        
+        h2{
+            font-weight:100;
+            font-size:15px;
+            text-align:center;
+            font-family:宋体;
+            color:gray;
+        }
+        .tupian img{
+            text-align: center;
+            width: 300px;height: 600;
+        }
+        .tupian{
+            text-align: center
+        }
+        .p01{
+            text-align:right;
+        }
+        .shijian{
+            color:red;
+        }
+        .p1{
+            text-indent: 2em;
+            line-height: 24px;
+        }
+        .p02{
+            text-indent: 2em;
+        }
+        .p2{
+            text-indent: 2em;
+            line-height: 24px;
+        }
+    </style>
+    </head>
+    <body >
+        <div class="p0">
+        <h1>看不见的万枚硬币：细节的负担的</h1>
+        <h2>创新公司皮克斯的启示</h2>
+        <hr>
+        <p class="tupian"> <img src="../img/图片1.png" alt="图片"></p>
+        <p class="p01">2015年05月05日 <span class="shijian">17:47</span></p>
+      <p class="p1">1.生活不是等待风暴过去，而是学会在雨中翩翩起舞。<br>
+     
+    <p class="p02">2.还有梦就不怕痛要跟你站在最顶峰。</p>
+     
+    <p class="p03">3.你不去闯怎么知道后面是悬崖还是大海。</p>
+     
+    <p class="p04">4.孤独并不可怕，每个人都是孤独的，可怕的是害怕孤独。</p>
+     
+    <p class="p05">5.宁可失败在你喜欢的事情上，也不要成功在你所憎恶的事情上。</p>
+     
+    <p class="p06">6.为了自己的目标，努力去奋斗。</p>
+     
+    <p class="p07">7.我很平凡，但骨子里的我却很勇敢。</p></p>
+      <p class="p2">8.有钱把事办好，没钱把人做好。
+     
+    9.你，可以不读大学!但你，绝对不可以不拼搏!
+     
+    10.眼中闪烁的泪光，也将化作永不妥协的坚强。
+     
+    11.我不去想是否能够成功，既然选了远方,便只顾风雨兼程。
+     
+    12.现实的压力压的我们喘不过气也压的我们走向成功。
+     
+    13.自己选择的路就该一步一步的走完。
+     
+    14.人生就是拼命的奔跑与华丽的跌倒。
+     
+    15.生命如同一根火柴，只有磨砺才会跳跃出灿烂的火花。</p>
+    </div>
+</body>
+</html>
